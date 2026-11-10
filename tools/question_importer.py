@@ -323,6 +323,7 @@ def main(argv: list[str] | None = None) -> int:
     cli.add_argument("--hard", type=float, default=0.93, help="Auto-reject near match similarity (default 0.93)")
     cli.add_argument("--review", type=float, default=0.83, help="Flag similarity for manual review (default 0.83)")
     cli.add_argument("--delay", type=float, default=2.0, help="Min seconds between requests per host")
+    cli.add_argument("--hold-review", action="store_true", help="Exclude possible near-duplicates requiring manual review from published output")
     args = cli.parse_args(argv)
     config = json.loads(args.config.read_text(encoding="utf-8-sig"))
     if not isinstance(config.get("sources"), list):
@@ -352,6 +353,11 @@ def main(argv: list[str] | None = None) -> int:
             source_errors.append({"source": spec.get("id"), "error": str(exc)})
             print(f"{spec.get('id')}: FAILED: {exc}", file=sys.stderr)
     result = deduplicate(all_cards, existing, hard=args.hard, review=args.review)
+    if args.hold_review:
+        hold_keys = {(item["item"]["type"], norm_text(item["item"]["text"])) for item in result["review"]}
+        result["cards"] = [card for card in result["cards"] if (card["type"], norm_text(card["text"])) not in hold_keys]
+        result["stats"]["accepted"] = len(result["cards"])
+        result["stats"]["held_for_review"] = len(hold_keys)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps({"version": 1, "cards": result["cards"]}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

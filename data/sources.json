@@ -1,0 +1,63 @@
+{
+  "sources": [
+    {
+      "id": "sample-json",
+      "enabled": true,
+      "kind": "json",
+      "path": "../examples/samples/first-service.json",
+      "record_path": "questions",
+      "text_field": "question",
+      "type_field": "kind",
+      "level_field": "intensity",
+      "touch_field": "touch",
+      "license": "Original demo data",
+      "source_url": "https://github.com/can4ez/funts/blob/main/examples/samples/first-service.json"
+    },
+    {
+      "id": "sample-csv",
+      "enabled": true,
+      "kind": "csv",
+      "path": "../examples/samples/second-service.csv",
+      "text_field": "prompt",
+      "type_field": "type",
+      "level_field": "level",
+      "license": "Original demo data",
+      "source_url": "https://github.com/can4ez/funts/blob/main/examples/samples/second-service.csv"
+    },
+    {
+      "id": "sample-html",
+      "enabled": true,
+      "kind": "html",
+      "path": "../examples/samples/third-service.html",
+      "license": "Original demo data",
+      "selectors": [
+        {
+          "selector": ".truth-list li",
+          "type": "truth",
+          "level": 2
+        },
+        {
+          "selector": ".dare-list li",
+          "type": "dare",
+          "level": 2
+        }
+      ],
+      "source_url": "https://github.com/can4ez/funts/blob/main/examples/samples/third-service.html"
+    },
+    {
+      "id": "huggingface-truth-dare",
+      "enabled": false,
+      "kind": "json",
+      "url": "https://huggingface.co/datasets/chethanyadav/truth-dare/raw/main/tad_dataset.json",
+      "record_path": "messages",
+      "text_field": "content",
+      "filter_field": "role",
+      "filter_value": "user",
+      "level": 1,
+      "approved": true,
+      "license": "MIT (dataset metadata)",
+      "permission_note": "Open dataset declares MIT license; verify terms and author rights before distributing",
+      "source_url": "https://huggingface.co/datasets/chethanyadav/truth-dare"
+    }
+  ]
+}

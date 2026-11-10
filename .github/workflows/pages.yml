@@ -1,22 +1,23 @@
-name: Tests and GitHub Pages
+name: Test, Import and Deploy Pages
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Re-import authorized external feeds every day once they are enabled in data/sources.json.
+  schedule:
+    - cron: "17 4 * * *"
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: github-pages
   cancel-in-progress: false
 
 jobs:
-  test:
-    name: Test question importer
+  build:
+    name: Test and build question bank
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
@@ -29,30 +30,59 @@ jobs:
           cache-dependency-path: tools/requirements.txt
       - name: Install dependencies
         run: python -m pip install -r tools/requirements.txt
-      - name: Run tests
-        run: python -m unittest discover -s tests -v
+      - name: Run importer unit tests
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Import and deduplicate approved sources
+        run: |
+          python tools/question_importer.py \
+            --config data/sources.json \
+            --existing data/base-question-bank.json \
+            --output build/question-bank.json \
+            --report build/import-report.json \
+            --hold-review
+      - name: Validate generated question bank
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          cards = json.loads(Path('build/question-bank.json').read_text(encoding='utf-8'))['cards']
+          report = json.loads(Path('build/import-report.json').read_text(encoding='utf-8'))
+          assert not report['source_errors'], report['source_errors']
+          assert all(c['type'] in ('truth', 'dare') and c['level'] in (1, 2, 3) and c['text'] for c in cards)
+          assert len(cards) == report['stats']['accepted']
+          print(f"Published additional cards: {len(cards)}")
+          PY
+      - name: Keep import report for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: question-import-report
+          path: build/import-report.json
+          retention-days: 14
+      - name: Prepare website and generated bank
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp build/question-bank.json _site/data/question-bank.json
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
 
   deploy:
-    name: Deploy playable site
-    needs: test
+    name: Publish GitHub Pages
+    needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout sources
-        uses: actions/checkout@v4
-      - name: Prepare public site
-        run: |
-          mkdir -p _site
-          cp index.html _site/index.html
-          touch _site/.nojekyll
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Upload public site
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
-      - name: Deploy
+      - name: Deploy website and question bank
         id: deployment
         uses: actions/deploy-pages@v4
