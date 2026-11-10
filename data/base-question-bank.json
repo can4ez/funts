@@ -1,0 +1,1598 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "base-truth-1-0",
+      "type": "truth",
+      "level": 1,
+      "text": "Какую мысль о ком-то из присутствующих ты так и не озвучил(а)?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-1",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой комплимент тебе сложнее всего принять?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-2",
+      "type": "truth",
+      "level": 1,
+      "text": "С кем из присутствующих ты бы выбрал(а) спонтанное путешествие?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-3",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой самый нелепый повод ты придумывал(а), чтобы написать симпатичному человеку?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-4",
+      "type": "truth",
+      "level": 1,
+      "text": "Что ты первым делом замечаешь в человеке, который нравится?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-5",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой твой самый неловкий момент на свидании?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-6",
+      "type": "truth",
+      "level": 1,
+      "text": "Что в тебе окружающие обычно понимают неправильно?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-7",
+      "type": "truth",
+      "level": 1,
+      "text": "В какой момент ты понимаешь, что доверяешь человеку?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-8",
+      "type": "truth",
+      "level": 1,
+      "text": "Какое сообщение тебе было особенно приятно получить?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-9",
+      "type": "truth",
+      "level": 1,
+      "text": "Какая черта в человеке мгновенно добавляет ему привлекательности?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-10",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой вопрос тебе давно хочется задать {target}?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-11",
+      "type": "truth",
+      "level": 1,
+      "text": "Когда ты в последний раз краснел(а) из-за комплимента?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-12",
+      "type": "truth",
+      "level": 1,
+      "text": "Что ты обычно скрываешь за фразой «всё нормально»?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-13",
+      "type": "truth",
+      "level": 1,
+      "text": "Как выглядело бы твоё идеальное первое свидание?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-14",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой свой поступок ты считаешь самым романтичным?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-15",
+      "type": "truth",
+      "level": 1,
+      "text": "Кто в компании лучше всего умеет сохранять тайны и почему?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-16",
+      "type": "truth",
+      "level": 1,
+      "text": "На какое безобидное безумство ты готов(а) ради симпатии?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-17",
+      "type": "truth",
+      "level": 1,
+      "text": "Что может заставить тебя потерять счёт времени в разговоре?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-18",
+      "type": "truth",
+      "level": 1,
+      "text": "Какая песня напоминает тебе о влюблённости?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-19",
+      "type": "truth",
+      "level": 1,
+      "text": "Что приятнее: неожиданный комплимент или продуманный сюрприз?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-20",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой твой самый странный критерий привлекательности?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-21",
+      "type": "truth",
+      "level": 1,
+      "text": "В чём ты хотел(а) бы стать смелее в общении?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-22",
+      "type": "truth",
+      "level": 1,
+      "text": "Какое первое впечатление о ком-то из присутствующих оказалось неверным?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-23",
+      "type": "truth",
+      "level": 1,
+      "text": "Чего ты никогда не скажешь человеку на первом свидании?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-24",
+      "type": "truth",
+      "level": 1,
+      "text": "Тебе проще признаться в симпатии или дождаться первого шага?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-25",
+      "type": "truth",
+      "level": 1,
+      "text": "Какое качество в {target} ты искренне ценишь?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-26",
+      "type": "truth",
+      "level": 1,
+      "text": "Какой романтический жест кажется тебе переоценённым?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-1-27",
+      "type": "truth",
+      "level": 1,
+      "text": "Какая маленькая деталь способна сделать вечер особенным?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-0",
+      "type": "truth",
+      "level": 2,
+      "text": "Что в человеке может вызвать у тебя мгновенную химию?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-1",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой флирт у тебя получается лучше: словами или взглядом?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-2",
+      "type": "truth",
+      "level": 2,
+      "text": "Было ли у тебя свидание, которое хотелось продлить до утра?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-3",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой самый смелый намёк ты когда-либо делал(а)?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-4",
+      "type": "truth",
+      "level": 2,
+      "text": "Кого из присутствующих ты бы пригласил(а) на танец тет-а-тет и почему?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-5",
+      "type": "truth",
+      "level": 2,
+      "text": "Что для тебя сильнее всего создаёт романтическое напряжение?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-6",
+      "type": "truth",
+      "level": 2,
+      "text": "Как ты показываешь симпатию, когда не хочешь признаваться прямо?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-7",
+      "type": "truth",
+      "level": 2,
+      "text": "Какая фраза способна тебя смутить в хорошем смысле?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-8",
+      "type": "truth",
+      "level": 2,
+      "text": "Самое неожиданное место, где ты почувствовал(а) взаимную симпатию?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-9",
+      "type": "truth",
+      "level": 2,
+      "text": "Что в твоём представлении делает поцелуй по-настоящему запоминающимся?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-10",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой секрет о твоём отношении к романтике удивил бы друзей?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-11",
+      "type": "truth",
+      "level": 2,
+      "text": "Было ли так, что дружеский разговор внезапно стал флиртом?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-12",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой жест внимания кажется тебе более интимным, чем слова?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-13",
+      "type": "truth",
+      "level": 2,
+      "text": "Ты любишь интригу или предпочитаешь говорить о желаниях прямо?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-14",
+      "type": "truth",
+      "level": 2,
+      "text": "Как ты понимаешь, что между вами возникло взаимное притяжение?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-15",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой самый приятный неожиданный комплимент ты получал(а)?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-16",
+      "type": "truth",
+      "level": 2,
+      "text": "Какая сцена из фильма лучше всего передаёт твой идеал романтики?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-17",
+      "type": "truth",
+      "level": 2,
+      "text": "Если бы {target} мог(ла) задать тебе один честный вопрос, о чём бы он был?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-18",
+      "type": "truth",
+      "level": 2,
+      "text": "В каком случае ты готов(а) первым(ой) предложить поцелуй?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-19",
+      "type": "truth",
+      "level": 2,
+      "text": "Какая твоя привычка выдаёт влюблённость?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-20",
+      "type": "truth",
+      "level": 2,
+      "text": "Был ли у тебя случай, когда один взгляд изменил весь вечер?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-21",
+      "type": "truth",
+      "level": 2,
+      "text": "Что ты считаешь самым привлекательным проявлением уверенности?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-22",
+      "type": "truth",
+      "level": 2,
+      "text": "Какую личную границу тебе особенно важно проговорить на свидании?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-2-23",
+      "type": "truth",
+      "level": 2,
+      "text": "Какой комплимент ты хотел(а) бы сказать {target}, но раньше не решался(лась)?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-0",
+      "type": "truth",
+      "level": 3,
+      "text": "Какое твоё самое смелое романтическое желание, которым ты готов(а) поделиться?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-1",
+      "type": "truth",
+      "level": 3,
+      "text": "Что для тебя привлекательнее: медленное сближение или внезапная искра?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-2",
+      "type": "truth",
+      "level": 3,
+      "text": "Какой вид близости вызывает у тебя больше всего нежности?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-3",
+      "type": "truth",
+      "level": 3,
+      "text": "О каком поцелуе ты до сих пор вспоминаешь с улыбкой?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-4",
+      "type": "truth",
+      "level": 3,
+      "text": "Какая неочевидная деталь во внешности человека тебя особенно притягивает?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-5",
+      "type": "truth",
+      "level": 3,
+      "text": "Какую фантазию о свидании ты никогда не предлагал(а) вслух?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-6",
+      "type": "truth",
+      "level": 3,
+      "text": "Что сильнее заводит твоё воображение: слова, голос или прикосновение?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-7",
+      "type": "truth",
+      "level": 3,
+      "text": "Какой твой самый смелый опыт флирта, о котором комфортно рассказать?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-8",
+      "type": "truth",
+      "level": 3,
+      "text": "Какой сигнал ты подаёшь, если хочешь, чтобы человек приблизился?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-9",
+      "type": "truth",
+      "level": 3,
+      "text": "Кто из присутствующих кажется тебе самым загадочным? Почему?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-10",
+      "type": "truth",
+      "level": 3,
+      "text": "Какой вопрос о желаниях ты давно хотел(а) бы обсудить с партнёром?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-11",
+      "type": "truth",
+      "level": 3,
+      "text": "Что для тебя важнее во взаимном притяжении: игра или искренность?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-12",
+      "type": "truth",
+      "level": 3,
+      "text": "Был ли момент, когда тебя почти поцеловали, но так и не решились?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-13",
+      "type": "truth",
+      "level": 3,
+      "text": "Какую смелую, но уважительную фразу ты хотел(а) бы услышать на свидании?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-14",
+      "type": "truth",
+      "level": 3,
+      "text": "Что ты считаешь самой недооценённой частью романтической близости?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-15",
+      "type": "truth",
+      "level": 3,
+      "text": "В какой ситуации тебя особенно привлекает инициативность?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-16",
+      "type": "truth",
+      "level": 3,
+      "text": "Какая атмосфера помогает тебе открыто говорить о своих желаниях?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-17",
+      "type": "truth",
+      "level": 3,
+      "text": "Что ты никогда не будешь делать ради флирта, даже при сильной симпатии?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-18",
+      "type": "truth",
+      "level": 3,
+      "text": "Как ты предпочитаешь обсуждать границы и согласие в близких отношениях?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-19",
+      "type": "truth",
+      "level": 3,
+      "text": "Был ли у тебя момент настолько сильной химии, что слова стали лишними?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-20",
+      "type": "truth",
+      "level": 3,
+      "text": "Какая твоя личная фантазия о романтическом вечере вполне осуществима?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-21",
+      "type": "truth",
+      "level": 3,
+      "text": "Чего ты больше боишься: показать симпатию или не заметить взаимную?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-22",
+      "type": "truth",
+      "level": 3,
+      "text": "Какую черту в себе ты считаешь особенно притягательной?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-23",
+      "type": "truth",
+      "level": 3,
+      "text": "Если бы можно было спросить у {target} что угодно без неловкости, что бы это было?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-24",
+      "type": "truth",
+      "level": 3,
+      "text": "Как ты понимаешь, что готов(а) перейти от флирта к настоящей близости?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-25",
+      "type": "truth",
+      "level": 3,
+      "text": "Был ли поцелуй, который оказался намного лучше твоих ожиданий?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-26",
+      "type": "truth",
+      "level": 3,
+      "text": "Какую романтическую фантазию ты предложил(а) бы реализовать вдвоём?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-27",
+      "type": "truth",
+      "level": 3,
+      "text": "Что сильнее влияет на желание быть рядом: голос, запах или взгляд?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-28",
+      "type": "truth",
+      "level": 3,
+      "text": "Какой момент на свидании запомнился тебе именно из-за напряжения между вами?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-29",
+      "type": "truth",
+      "level": 3,
+      "text": "Какая неожиданная ситуация заставляла твоё сердце биться быстрее?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-30",
+      "type": "truth",
+      "level": 3,
+      "text": "Что для тебя самое привлекательное в человеке в минуты взаимной симпатии?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-31",
+      "type": "truth",
+      "level": 3,
+      "text": "Ты когда-нибудь мечтал(а) поцеловать кого-то в самый неподходящий момент?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-32",
+      "type": "truth",
+      "level": 3,
+      "text": "Какие разговоры перед физической близостью ты считаешь обязательными?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-truth-3-33",
+      "type": "truth",
+      "level": 3,
+      "text": "Что бы ты хотел(а) попробовать на романтическом свидании, но пока не решался(лась)?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-0",
+      "type": "dare",
+      "level": 1,
+      "text": "Скажи каждому игроку по одному неожиданному, но искреннему комплименту.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-1",
+      "type": "dare",
+      "level": 1,
+      "text": "Расскажи историю самого неловкого флирта за 20 секунд.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-2",
+      "type": "dare",
+      "level": 1,
+      "text": "В течение 20 секунд веди себя как герой романтической комедии.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-3",
+      "type": "dare",
+      "level": 1,
+      "text": "Выбери {target} и придумай ему/ей смешное имя для приложения знакомств.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-4",
+      "type": "dare",
+      "level": 1,
+      "text": "Покажи выражение лица, с которым читаешь сообщение от человека, который нравится.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-5",
+      "type": "dare",
+      "level": 1,
+      "text": "Сымпровизируй приглашение на свидание с первой попытки.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-6",
+      "type": "dare",
+      "level": 1,
+      "text": "Назови три вещи, которые делают свидание незабываемым.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-7",
+      "type": "dare",
+      "level": 1,
+      "text": "Произнеси комплимент {target} так, словно это трейлер фильма.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-8",
+      "type": "dare",
+      "level": 1,
+      "text": "Две минуты говори в максимально торжественном тоне.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-9",
+      "type": "dare",
+      "level": 1,
+      "text": "Изобрази человека, который случайно встретил свою первую любовь.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-10",
+      "type": "dare",
+      "level": 1,
+      "text": "Предложи всем название для фильма про сегодняшний вечер.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-11",
+      "type": "dare",
+      "level": 1,
+      "text": "Сочини самый нелепый подкат из семи слов.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-12",
+      "type": "dare",
+      "level": 1,
+      "text": "Покажи без слов, как ты реагируешь на неожиданное признание в любви.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-13",
+      "type": "dare",
+      "level": 1,
+      "text": "Выбери у каждого игрока по одному качеству для идеального персонажа.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-14",
+      "type": "dare",
+      "level": 1,
+      "text": "Произнеси фразу «Я давно хотел(а) тебе сказать...» с тремя разными интонациями.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-15",
+      "type": "dare",
+      "level": 1,
+      "text": "Придумай тост без алкоголя за смелость говорить правду.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-16",
+      "type": "dare",
+      "level": 1,
+      "text": "За 30 секунд составь идеальный плейлист из трёх песен для свидания.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-17",
+      "type": "dare",
+      "level": 1,
+      "text": "Сыграй 15-секундную сцену «встреча после долгой разлуки».",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-18",
+      "type": "dare",
+      "level": 1,
+      "text": "Попроси {target} придумать тебе романтическое прозвище.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-19",
+      "type": "dare",
+      "level": 1,
+      "text": "Скажи одну приятную правду о сегодняшнем вечере.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-20",
+      "type": "dare",
+      "level": 1,
+      "text": "Изобрази уверенный флирт только жестами и мимикой.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-21",
+      "type": "dare",
+      "level": 1,
+      "text": "Устрой голосование: какое из трёх твоих хобби звучит романтичнее всего?",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-22",
+      "type": "dare",
+      "level": 1,
+      "text": "Скажи фразу «Ты сегодня отлично выглядишь» голосом кинозлодея.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-23",
+      "type": "dare",
+      "level": 1,
+      "text": "Придумай короткую подпись к воображаемой фотографии всей компании.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-24",
+      "type": "dare",
+      "level": 1,
+      "text": "Расскажи комплимент самому себе так, будто это реклама.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-25",
+      "type": "dare",
+      "level": 1,
+      "text": "Опиши идеальное свидание, не используя слова «ужин», «кино» и «кафе».",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-26",
+      "type": "dare",
+      "level": 1,
+      "text": "Предложи {target} выбрать для тебя тему мини-истории, а затем сочини её за 20 секунд.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-1-27",
+      "type": "dare",
+      "level": 1,
+      "text": "Скажи, чем каждый участник сделал бы идеальную компанию в приключении.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-0",
+      "type": "dare",
+      "level": 2,
+      "text": "Смотри {target} в глаза 15 секунд, если вам обоим комфортно.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-1",
+      "type": "dare",
+      "level": 2,
+      "text": "Скажи {target} комплимент, который звучал бы как начало романтического письма.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-2",
+      "type": "dare",
+      "level": 2,
+      "text": "Произнеси фразу для знакомства так, чтобы остальные оценили её по шкале обаяния.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-3",
+      "type": "dare",
+      "level": 2,
+      "text": "Придумай для {target} приглашение на необычное свидание.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-4",
+      "type": "dare",
+      "level": 2,
+      "text": "Опиши поэтично, как выглядит момент перед первым поцелуем.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-5",
+      "type": "dare",
+      "level": 2,
+      "text": "На 20 секунд стань ведущим радио-шоу про любовь.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-6",
+      "type": "dare",
+      "level": 2,
+      "text": "Шёпотом расскажи всем самый безобидный секрет о своём флирте.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-7",
+      "type": "dare",
+      "level": 2,
+      "text": "Придумай три романтических намёка: тонкий, очевидный и комично прямой.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-8",
+      "type": "dare",
+      "level": 2,
+      "text": "Прочитай любую короткую фразу так, будто это признание в чувствах.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-9",
+      "type": "dare",
+      "level": 2,
+      "text": "Попроси {target} назвать три слова, которыми он(а) тебя описал(а) бы.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-10",
+      "type": "dare",
+      "level": 2,
+      "text": "Создай рекламу свидания с собой длительностью 15 секунд.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-11",
+      "type": "dare",
+      "level": 2,
+      "text": "Сыграй сценку «оба хотят поцеловаться, но оба стесняются».",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-12",
+      "type": "dare",
+      "level": 2,
+      "text": "Назови каждому игроку по одному качеству, которое кажется тебе притягательным.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-13",
+      "type": "dare",
+      "level": 2,
+      "text": "Выбери {target} и предложи ему/ей обменяться самыми необычными вопросами о свиданиях.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-14",
+      "type": "dare",
+      "level": 2,
+      "text": "Покажи три разных взгляда: невинный, заинтересованный и дерзкий.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-15",
+      "type": "dare",
+      "level": 2,
+      "text": "Придумай фразу, которой можно красиво завершить отличное свидание.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-16",
+      "type": "dare",
+      "level": 2,
+      "text": "Расскажи о привлекательной черте характера, не называя саму черту.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-17",
+      "type": "dare",
+      "level": 2,
+      "text": "Сделай {target} комплимент без слов «красивый», «милая» и «классный».",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-18",
+      "type": "dare",
+      "level": 2,
+      "text": "Сделай вид, что ведёшь кастинг на роль идеального партнёра: назови три критерия.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-19",
+      "type": "dare",
+      "level": 2,
+      "text": "Сымпровизируй разговор, где первое свидание начинается совершенно не по плану.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-20",
+      "type": "dare",
+      "level": 2,
+      "text": "На 20 секунд поменяйся с {target} манерой речи, если он(а) не против.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-21",
+      "type": "dare",
+      "level": 2,
+      "text": "Скажи человеку слева комплимент, который точно не связан с внешностью.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-22",
+      "type": "dare",
+      "level": 2,
+      "text": "Придумай оригинальное кодовое название для тайного свидания.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-23",
+      "type": "dare",
+      "level": 2,
+      "text": "Сядь рядом с {target} на один ход, если вы оба этого хотите.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-24",
+      "type": "dare",
+      "level": 2,
+      "text": "Если вы оба согласны, предложи {target} коротко подержаться за руки.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-25",
+      "type": "dare",
+      "level": 2,
+      "text": "Если вы оба согласны, обменяйтесь дружескими объятиями.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-2-26",
+      "type": "dare",
+      "level": 2,
+      "text": "Если вы оба согласны, предложи {target} потанцевать под воображаемую музыку 10 секунд.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-0",
+      "type": "dare",
+      "level": 3,
+      "text": "Посмотри на {target} и произнеси самое смелое, но уважительное приглашение на свидание.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-1",
+      "type": "dare",
+      "level": 3,
+      "text": "Опиши идеальный поцелуй пятью словами, не называя место.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-2",
+      "type": "dare",
+      "level": 3,
+      "text": "Скажи {target}, какая черта в нём/ней кажется тебе особенно харизматичной.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-3",
+      "type": "dare",
+      "level": 3,
+      "text": "Сымпровизируй сцену «романтическое признание ровно в полночь».",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-4",
+      "type": "dare",
+      "level": 3,
+      "text": "Скажи вслух, что для тебя обязательно должно быть взаимным в отношениях.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-5",
+      "type": "dare",
+      "level": 3,
+      "text": "Придумай короткое голосовое сообщение, после которого хочется увидеться.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-6",
+      "type": "dare",
+      "level": 3,
+      "text": "Озвучь одну фразу, которую хотел(а) бы сказать при взаимном флирте.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-7",
+      "type": "dare",
+      "level": 3,
+      "text": "Покажи без слов, как бы ты дал(а) понять человеку, что он тебе нравится.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-8",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи свою версию идеального вечера вдвоём без конкретных имён.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-9",
+      "type": "dare",
+      "level": 3,
+      "text": "Прочитай короткое признание в симпатии, глядя на {target}, если вам обоим комфортно.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-10",
+      "type": "dare",
+      "level": 3,
+      "text": "Выбери один из трёх сценариев — свидание на крыше, ночь у моря или прогулка по пустому городу — и ярко опиши его.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-11",
+      "type": "dare",
+      "level": 3,
+      "text": "Назови три детали, которые создают романтическое напряжение без прикосновений.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-12",
+      "type": "dare",
+      "level": 3,
+      "text": "Представь, что снимаешь романтическое кино: произнеси самую запоминающуюся реплику.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-13",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи, что могло бы сделать неожиданный поцелуй желанным и уместным.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-14",
+      "type": "dare",
+      "level": 3,
+      "text": "Попроси {target} назвать песню для вашей воображаемой сцены свидания.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-15",
+      "type": "dare",
+      "level": 3,
+      "text": "Сделай {target} тонкий комплимент так, чтобы остальные не сразу поняли его смысл.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-16",
+      "type": "dare",
+      "level": 3,
+      "text": "Предложи {target} придумать короткий романтический диалог на две реплики.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-17",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи один факт о своих предпочтениях в отношениях, который обычно оставляешь при себе.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-18",
+      "type": "dare",
+      "level": 3,
+      "text": "Покажи три варианта фразы «Останься ещё на немного» — застенчиво, уверенно и игриво.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-19",
+      "type": "dare",
+      "level": 3,
+      "text": "Назови одну вещь, о которой тебе хотелось бы честно поговорить перед близостью.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-20",
+      "type": "dare",
+      "level": 3,
+      "text": "Покажи, как ты мягко и уважительно попросил(а) бы разрешения на поцелуй.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-21",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи {target} о свидании, на которое пригласил(а) бы его/её в вымышленном мире.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-22",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, предложи {target} подержаться за руки 15 секунд.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-23",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, предложи {target} короткий медленный танец.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-24",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, предложи {target} поцелуй в щёку; любой отказ принимается сразу.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-25",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, предложи {target} нежное объятие на несколько секунд.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-26",
+      "type": "dare",
+      "level": 3,
+      "text": "Если между вами есть взаимное желание, предложи {target} короткий поцелуй; любое «нет» сразу принимается.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-27",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, станцуйте с {target} медленный танец, глядя друг другу в глаза.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-28",
+      "type": "dare",
+      "level": 3,
+      "text": "Если вы оба согласны, обменяйтесь с {target} нежным поцелуем в руку.",
+      "touch": true,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-29",
+      "type": "dare",
+      "level": 3,
+      "text": "Придумай для {target} самый смелый романтический намёк, не переходя личные границы.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-30",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи трёхфразную историю о свидании, после которого не хотелось расставаться.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-31",
+      "type": "dare",
+      "level": 3,
+      "text": "Назови пять слов, которые могли бы сделать ваше воображаемое свидание захватывающим.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-32",
+      "type": "dare",
+      "level": 3,
+      "text": "Изобрази короткую сцену взаимного флирта, используя только взгляд и паузы.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-33",
+      "type": "dare",
+      "level": 3,
+      "text": "Произнеси фразу «Я хочу увидеть тебя снова» настолько убедительно, насколько можешь.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-34",
+      "type": "dare",
+      "level": 3,
+      "text": "Придумай три способа предложить поцелуй, не ставя другого человека в неловкое положение.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    },
+    {
+      "id": "base-dare-3-35",
+      "type": "dare",
+      "level": 3,
+      "text": "Расскажи, как бы выглядел самый романтический финал сегодняшнего вечера.",
+      "touch": false,
+      "source": "original-app",
+      "license": "Original authored content"
+    }
+  ]
+}

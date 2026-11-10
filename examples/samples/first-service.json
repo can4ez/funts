@@ -1,0 +1,8 @@
+{
+  "questions": [
+    {"kind":"truth","intensity":2,"question":"Какой комплимент тебя удивил больше всего?","touch":false},
+    {"kind":"truth","intensity":2,"question":"Что заставляет тебя краснеть?","touch":false},
+    {"kind":"dare","intensity":1,"question":"Покажи танец победителя за 15 секунд.","touch":false},
+    {"kind":"truth","intensity":1,"question":"Какую тайну из детства ты помнишь до сих пор?","touch":false}
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "ext-67d3a38924fdd859e3cb",
+      "text": "Какой комплимент тебя удивил больше всего?",
+      "type": "truth",
+      "level": 2,
+      "touch": false,
+      "source": "sample-json",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/first-service.json",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-428f067ecdf6855acbd2",
+      "text": "Что заставляет тебя краснеть?",
+      "type": "truth",
+      "level": 2,
+      "touch": false,
+      "source": "sample-json",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/first-service.json",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-9f0a068a942af216acf7",
+      "text": "Покажи танец победителя за 15 секунд.",
+      "type": "dare",
+      "level": 1,
+      "touch": false,
+      "source": "sample-json",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/first-service.json",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-ad1d04622a5cd1a20d36",
+      "text": "Какую тайну из детства ты помнишь до сих пор?",
+      "type": "truth",
+      "level": 1,
+      "touch": false,
+      "source": "sample-json",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/first-service.json",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-a99b09d724fa9a19e3c4",
+      "text": "Изобрази за минуту свидание из неловкой комедии.",
+      "type": "dare",
+      "level": 2,
+      "touch": false,
+      "source": "sample-csv",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/second-service.csv",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-60b096a05294eee4fb39",
+      "text": "Какие три качества ты ценишь в друзьях?",
+      "type": "truth",
+      "level": 2,
+      "touch": false,
+      "source": "sample-html",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/third-service.html",
+      "license": "Original demo data"
+    },
+    {
+      "id": "ext-b365d6cb7789dc994349",
+      "text": "Расскажи историю любви голосом диктора.",
+      "type": "dare",
+      "level": 2,
+      "touch": false,
+      "source": "sample-html",
+      "source_url": "file:///mnt/data/posle-polunochi-v2/examples/samples/third-service.html",
+      "license": "Original demo data"
+    }
+  ]
+}
